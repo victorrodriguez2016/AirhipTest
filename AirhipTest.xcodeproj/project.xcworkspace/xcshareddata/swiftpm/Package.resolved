@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Airship",
+        "repositoryURL": "https://github.com/urbanairship/ios-library",
+        "state": {
+          "branch": null,
+          "revision": "b0fc649af08b5009ac35f86cc1b395232cde0e7a",
+          "version": "14.4.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
